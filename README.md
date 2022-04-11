@@ -3,7 +3,7 @@
 
 ![html](/../../blob/main/icon-logo/HTMLicon70px.png)
 ![css](/../../blob/main/icon-logo/CSSicon70px.png)
-![js](/../../blob/main/icon-logo/JSicon75px.png)
+![js](/../../blob/main/icon-logo/JSicon70px.png)
 ***
 
 
