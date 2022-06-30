@@ -1,13 +1,17 @@
 👋 Hi, I am @GolovanovAlex...and i learning:
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![html](/../../blob/main/icon-logo/HTMLicon70px.png)
-![css](/../../blob/main/icon-logo/CSSicon70px.png)
-![js](/../../blob/main/icon-logo/JSicon70px.png)
-***
+---
 
 
-<!---
-GolovanovAlex/GolovanovAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contacts
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GolovanovAlex)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeConseiller_Alex)
+<a href="mailto:leconseiller@yandex.ru" style="font-size: 20px; color: black;">
+
+- <a href="mailto:golovanov.a.a@yandex.ru" >Golovanov.a.a@yandex.ru</a>
+
+  
