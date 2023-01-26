@@ -2,7 +2,7 @@
 
  And I'm a Front-End Web Developer.
  
- ### 📜 My Website: [alexgolovanov.ru](alexgolovanov.ru)
+ ### 📜 My Website: [alexgolovanov.ru](http://alexgolovanov.ru)
  ### :hammer_and_wrench:  My Skills:  
  
 
