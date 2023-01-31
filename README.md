@@ -24,7 +24,6 @@
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=photoshop&logoColor=white)
 
 
-
 ---
  <a href="https://github.com/GolovanovAlex">
  <img src="https://github-readme-stats.vercel.app/api?username=GolovanovAlex&show_icons=true&hide=&count_private=true&title_color=4682B4&text_color=ffffff&icon_color=87CEFA&bg_color=000000&hide_border=true&show_icons=true" width="49%" />
